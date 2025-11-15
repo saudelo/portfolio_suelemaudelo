@@ -1,2 +1,51 @@
-# portfolio_suelemaudelo
-a portfolio of my work 2025
+# Hi, I’m Suelem! 👋
+I’m a recent **Software Engineering graduate** passionate about building practical, user-focused software solutions. I enjoy working on **full-stack applications** and problem-solving with code.
+
+---
+
+## About Me
+- Graduated with a **B.Sc. in Software Engineering** from ASU (2021–2025)  
+- Skilled in **Java, C++, JavaScript, React, React Native, Node.js, SQL, MongoDB**  
+- Experienced in **SDLC, Agile/Scrum, unit & integration testing, CI/CD, AWS (EC2)**  
+- Strong **collaboration, problem-solving, and time management** skills  
+
+---
+
+## Academic Projects
+
+### **Smart Mobile Health Application**
+*Full-stack mobile app built with React Native & Node.js*  
+- Designed and implemented **REST APIs** and a **relational database schema** for patient data   
+- Applied **Agile/Scrum methodology** with backlog management, sprint planning, and iterative testing (Jest)  
+
+### **[Huevana]**
+*An application for .....*  
+- Key technologies and frameworks used ....
+- GitHub: `[link]`
+
+
+---
+
+## Skills
+**Programming Languages & Frameworks:** Java, C++, JavaScript, React, React Native, Node.js, SQL, MongoDB  
+**Tools & Platforms:** Git, GitHub, Gradle, Travis CI, Figma, AWS EC2  
+**Development Practices:** Agile/Scrum, SDLC, OOP, CI/CD, Unit & Integration Testing  
+**Operating Systems:** macOS, Linux, Windows  
+
+---
+
+## Contact Me
+- LinkedIn: `https://www.linkedin.com/in/suelem-audelo`  
+- GitHub: `https://github.com/saudelo`  
+- Email: `suelemaudelo@gmail.com`
+
+---
+
+## Github Stats
+
+[![Suelem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=saudelo&show_icons=true&theme=cobalt)](https://github.com/saudelo/github-readme-stats)
+
+---
+
+## Top Langs
+![Suelem’s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saudelo&lhide_progress=true)
