@@ -26,7 +26,7 @@ I’m a recent **Software Engineering graduate** passionate about building pract
   
 ### **[Multithreading practice]**
 - Simple list demo implemented using Java and Gradle to practice multithreading and distributed computing fundamentals.
-- `[https://youtu.be/kUjrSUj77fk]`
+- [https://youtu.be/kUjrSUj77fk]
   
 
 
@@ -43,9 +43,9 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 ---
 
 ## Contact Me
-- LinkedIn: `https://www.linkedin.com/in/suelem-audelo`  
-- GitHub: `https://github.com/saudelo`  
-- Email: `suelemaudelo@gmail.com`
+- LinkedIn: [https://youtu.be/kUjrSUj77fk]
+- GitHub: [https://youtu.be/kUjrSUj77fk] 
+- Email: [https://youtu.be/kUjrSUj77fk]
 
 ---
 
