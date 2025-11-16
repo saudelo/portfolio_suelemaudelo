@@ -51,7 +51,7 @@ I’m a recent **Software Engineering graduate** passionate about building pract
 
 ## Github Stats
 
-[![Suelem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=saudelo&show_icons=true&theme=cobalt)](https://github.com/saudelo/github-readme-stats)
+[![Suelem’s GitHub stats](https://github-readme-stats.vercel.app/api?username=saudelo&show_icons=true&theme=cobalt&count_private=true)](https://github.com/saudelo/github-readme-stats)
 
 ---
 
